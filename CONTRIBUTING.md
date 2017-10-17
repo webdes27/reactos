@@ -18,9 +18,9 @@ _NOTE: patches related to 3rd party code such as Wine or BtrFS should be sent to
 
 Tests are used to check the functionality and correctness of APIs on ReactOS compared to Windows implementations. There are some unit tests that you could help ReactOS pass, which can be found [in the Web Test Manager][testman] and some that are broken or yet to be written.
 
-### Fixing Coverity scans
+### Fix Coverity scans
 
-[Coverity] is enhanced static analysis that uncovers leaks, buffer overflows, security issues and other. We do  such scans  on ReactOS codebase pretty often. You can [request][request-coverity] to see Coverity 'defects' and help to fix them.
+[Coverity] is enhanced static analysis that uncovers leaks, buffer overflows, security issues and other. We do such scans on ReactOS codebase pretty often. You can [request][request-coverity] to see Coverity 'defects' and help to fix them.
 
 ### Test ReactOS
 
@@ -34,9 +34,9 @@ Considering ReactOS is alpha quality software, there is a lot of [missing functi
 
 There are some important points if you would like to help document ReactOS:
 
-1.  Make sure the documentation does not exist yet (if it does, help improve it).
-2.  Respect [clean room reverse engineering] practices.
-3.  Add your knowledge to a place where the other developers can find it.
+1. Make sure the documentation does not exist yet (if it does, help improve it).
+2. Respect [clean room reverse engineering] practices.
+3. Add your knowledge to a place where the other developers can find it.
 
 ## How To Contribute?
 
